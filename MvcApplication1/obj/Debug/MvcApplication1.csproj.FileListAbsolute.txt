@@ -1,0 +1,7 @@
+C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\WebSite6 (2)\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\WebSite6 (2)\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\WebSite6 (2)\MvcApplication1\bin\EntityFramework.dll
+C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\WebSite6 (2)\MvcApplication1\bin\EntityFramework.xml
+C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\WebSite6 (2)\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\WebSite6 (2)\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\WebSite6 (2)\MvcApplication1\obj\Debug\MvcApplication1.pdb
